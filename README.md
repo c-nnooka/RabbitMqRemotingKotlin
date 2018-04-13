@@ -6,7 +6,7 @@
 
 **Required**
 
-  Install (RabbitMq)[http://www.rabbitmq.com/download.html]
+  Install RabbitMq [http://www.rabbitmq.com/download.html]
  
 **Config Details**
  1. routingkey = rms.webservice.api
