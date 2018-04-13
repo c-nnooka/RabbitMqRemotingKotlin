@@ -1,0 +1,12 @@
+*.log
+*.log.*
+*.suo
+*.user
+*.js.map
+node_modules
+dist
+bin
+obj
+.vs
+typings
+
