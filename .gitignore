@@ -10,3 +10,5 @@ obj
 .vs
 typings
 
+rabbiitmq-remoting/out/
+
